@@ -133,7 +133,7 @@ OLLAMA_MODEL=llama3.1:8b
 
 ---
 
-## ▶ Running the System
+## Running the System
 
 ### If using Ollama (local model)
 
